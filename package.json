@@ -4,6 +4,7 @@
   "description": "",
   "main": "IntegerToString.js",
   "scripts": {
+    "start": "nodemon IntegerToString.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/sp2728/Kargo/issues"
   },
-  "homepage": "https://github.com/sp2728/Kargo#readme"
+  "homepage": "https://github.com/sp2728/Kargo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
