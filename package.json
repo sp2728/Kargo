@@ -1,0 +1,24 @@
+{
+  "name": "kargo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IntegerToString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp2728/Kargo.git"
+  },
+  "keywords": [
+    "String",
+    "Integer",
+    "Conversion"
+  ],
+  "author": "Sai Kiran Pocham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sp2728/Kargo/issues"
+  },
+  "homepage": "https://github.com/sp2728/Kargo#readme"
+}
